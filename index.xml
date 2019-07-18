@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 
 <item>
-<title></title>
-<thumbnail></thumbnail>
-<fanart></fanart>
+<title>videos</title>
+<thumbnail>https://i.ytimg.com/vi/jfqcnImqgDE/maxresdefault.jpg</thumbnail>
+<fanart>http://resources.wimpmusic.com/images/b9d9c412/2120/421f/9068/e94d1f56cc41/640x640.jpg</fanart>
 <link>http://ignoreme</link>
-<externallink></externallink>
+<externallink>https://raw.githubusercontent.com/Rgeef/rageef/master/test1.xml</externallink>
 </item>
 
 <item>
@@ -13,7 +13,7 @@
 <thumbnail></thumbnail>
 <fanart></fanart>
 <link>http://ignoreme</link>
-<externallink></externallink>
+<externallink>https://raw.githubusercontent.com/Rgeef/rageef/master/Rageef2.xml</externallink>
 </item>
 
 <item>
